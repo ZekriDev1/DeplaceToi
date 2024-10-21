@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408654316195",
+    "project_id": "phone-auth-8671c",
+    "storage_bucket": "phone-auth-8671c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408654316195:android:0496ef082c87615035f516",
+        "android_client_info": {
+          "package_name": "com.zekri.deplacetoi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7lG_o0G7Hb4tbVprpx-P662g0II8Vhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
